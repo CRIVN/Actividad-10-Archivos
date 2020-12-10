@@ -1,0 +1,4 @@
+Sistema Operativo  Marca      Memoria Ram  Almacenamiento
+Ubuntu             Dell       8 Gb         500 Gb     
+Windows            Lenovo     16 Gb        256 Gb     
+windows            Asus       67 b         256        
